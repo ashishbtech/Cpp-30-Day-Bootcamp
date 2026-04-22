@@ -1,0 +1,31 @@
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables and Binaries
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Build directories 
+bin/
+build/
+out/
+Debug/
+Release/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors (VS Code, CLion, Vim, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+*.suo
+*.user
